@@ -1,1 +1,0 @@
-# Quan-Ly-Xay-Dung-Ung-Dung-Dat-Lich-Dat-Hen
