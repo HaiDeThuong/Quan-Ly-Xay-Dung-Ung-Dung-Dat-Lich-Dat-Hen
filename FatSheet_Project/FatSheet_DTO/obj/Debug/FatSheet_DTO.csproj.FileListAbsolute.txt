@@ -1,0 +1,6 @@
+C:\Users\HAI\Downloads\WEDSPORT\FatSheet_Project\FatSheet_DTO\bin\Debug\FatSheet_DTO.dll
+C:\Users\HAI\Downloads\WEDSPORT\FatSheet_Project\FatSheet_DTO\bin\Debug\FatSheet_DTO.pdb
+C:\Users\HAI\Downloads\WEDSPORT\FatSheet_Project\FatSheet_DTO\obj\Debug\FatSheet_DTO.csproj.AssemblyReference.cache
+C:\Users\HAI\Downloads\WEDSPORT\FatSheet_Project\FatSheet_DTO\obj\Debug\FatSheet_DTO.csproj.CoreCompileInputs.cache
+C:\Users\HAI\Downloads\WEDSPORT\FatSheet_Project\FatSheet_DTO\obj\Debug\FatSheet_DTO.dll
+C:\Users\HAI\Downloads\WEDSPORT\FatSheet_Project\FatSheet_DTO\obj\Debug\FatSheet_DTO.pdb
